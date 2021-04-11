@@ -1,3 +1,3 @@
 # big_data
 
-Non-exhaustive list of Big Dapa projects I worked on.
+Non-exhaustive list of Big Data projects I worked on.

@@ -6,4 +6,6 @@ Non-exhaustive list of Big Data projects I worked on.
 
 2- Mongo_DB:  This project was an introduction to Mongo DB queries.
 
-3
+3- Spark: This project was an introduction to Spark
+
+4- map_reduce&spark : This project was a final assignment.
